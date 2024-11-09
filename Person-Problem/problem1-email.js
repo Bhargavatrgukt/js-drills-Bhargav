@@ -38,5 +38,5 @@ function emailAddressOfPerson(persons) {
 // const emails=arrayOfObjects.map(pers=>console.log(pers.email))
 
 
-module.exports=emailAddressOfPerson
+module.exports=emailAddressOfPerson;
 

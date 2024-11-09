@@ -1,4 +1,4 @@
-const emailAddressOfPerson = require("../problem1");
+const emailAddressOfPerson = require('../problem1-email');
 const dataset = require("../problem-dataset");
 
 // Test Case 1 ---> Data Set Checking
